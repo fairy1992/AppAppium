@@ -55,7 +55,7 @@ class ElementRecourse:
 
     # 输入的参数：
     username_value = '19'  # 用户名
-    password_value = 'qweasd'  # 密码
+    password_value = '******'  # 密码
 
 
 
